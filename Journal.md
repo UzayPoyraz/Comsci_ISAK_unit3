@@ -13,3 +13,7 @@
   Our new project will be creating inventory for anything we need
   - properties
       weight, material, model, last_use, last_service and etc`
+      
+      
+14/2/20
+  Today we learned how to manipulate strings in python. We learned how to count letters, words, print an extract in upper and lower case, check if specific words exist in an extract.
