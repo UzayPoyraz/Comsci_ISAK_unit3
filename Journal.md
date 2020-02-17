@@ -17,3 +17,7 @@
       
 14/2/20
   Today we learned how to manipulate strings in python. We learned how to count letters, words, print an extract in upper and lower case, check if specific words exist in an extract.
+  
+17/2/20
+  Today we did several python practices and did a kahoot game in which i got a 8 point streak, still didn't
+reach the leaderboard but its fine. We talked to our clients about our success criteria, Uzay did not have any problems with it and I uploaded that evidence.
