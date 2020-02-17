@@ -1,0 +1,2 @@
+As a Client:
+As a member of Tech Crew, We often lose track of the equipment we have, things get lost and we don’t know how many things we have. We have many different types of Equipment: LED’s, Speakers, Cables, Extensions, Floods, Spotlights. I want to know what equipment still exists (inventory), when were these equipment last used, what we have to use for our next event, What needs to be fixed/replaced.
