@@ -13,3 +13,4 @@ pyplot.xlabel('x')
 pyplot.ylabel('y')
 pyplot.show()
 ```
+![graph](graph.png)
