@@ -13,9 +13,9 @@ for i in range(0, len(x), 2): #gets even numbers
 # print(a, b)
 # Given a list of numbers, find and print all elements that are an even number. In this case use a for-loop that iterates over the list, and not over its indices! That is, don't use range()
 x = [int(i) for i in input().split()]
-for elem in x:
-    if elem % 2 == 0:
-        print(elem)
+for element in x:
+    if element % 2 == 0:
+        print(element)
 ``` 
 ![evenelements](evenelements.png)
 
