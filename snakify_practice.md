@@ -111,3 +111,101 @@ print(hours, minutes)
 ```
 ![digitalclock](digitalclock.png)
 
+```.py
+# Read an integer:
+# a = int(input())
+# Read a float:
+# b = float(input())
+# Print a value:
+# print(a, b)
+num1 = int(input())
+num2 = int(input())
+if (num1 > num2):
+    print(num2)
+else:
+    print(num1)
+```
+![minimumoftwonumbers](minimumoftwonumbers.png)
+
+```.py
+# Read an integer:
+# a = int(input())
+# Read a float:
+# b = float(input())
+# Print a value:
+# print(a, b)
+num = int(input())
+if num > 0:
+    print("1")
+elif num < 0:
+    print("-1")
+else:
+    print("0")
+```
+![signfunction](signfunction.png)
+
+```.py
+# Read an integer:
+# a = int(input())
+# Read a float:
+# b = float(input())
+# Print a value:
+# print(a, b)
+num1 = int(input())
+n1 = int(input())
+num2 = int(input())
+n2 = int(input())
+if num1 == num2 or n1 == n2:
+    print('YES')
+else:
+    print('NO')
+```
+![rockmove](rockmove.png)
+
+```.py
+# Read an integer:
+# a = int(input())
+# Read a float:
+# b = float(input())
+# Print a value:
+# print(a, b)
+n = int(input())
+m = int(input())
+k = int(input())
+if k < n * m and ((k % n == 0) or (k % m == 0)):
+    print('YES')
+else:
+    print('NO')
+```
+
+![chocolatebar](chocolatebar.png)
+
+```.py
+# Read an integer:
+# a = int(input())
+# Read a float:
+# b = float(input())
+# Print a value:
+# print(a, b)
+n = int(input())
+sum = 0
+for i in range(n):
+    sum += int(input())
+print(sum)
+```
+![sumofnnumbers](sumofnnumbers.png)
+
+```.py
+# Read an integer:
+# a = int(input())
+# Read a float:
+# b = float(input())
+# Print a value:
+# print(a, b)
+numzero = 0
+for i in range(int(input())):
+    if int(input()) == 0:
+        numzero += 1
+print(numzero)
+```
+![numberofzeros](numberofzeros.png)
