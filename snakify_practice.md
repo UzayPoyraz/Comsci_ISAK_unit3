@@ -209,3 +209,21 @@ for i in range(int(input())):
 print(numzero)
 ```
 ![numberofzeros](numberofzeros.png)
+
+```.py
+# Read an integer:
+# a = int(input())
+# Read a float:
+# b = float(input())
+# Print a value:
+# print(a, b)
+n = int(input())
+sumcard = 0
+for i in range(1, n + 1):
+	sumcard += i
+for i in range(n - 1):
+	sumcard -= int(input())
+print(sumcard)
+```
+![lostcard](lostcard.png)
+
