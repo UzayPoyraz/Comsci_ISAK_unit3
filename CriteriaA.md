@@ -4,6 +4,7 @@ In my pencil case, I have multiple pencils. At the moment I am struggling to pic
 This can be seen in [appendix](Appendix.md) [1]
 
 **Proposed Solution**
+
 In regards to the issue above, I proposed to make an inventory system to help my client, Uzay, keep track of his pencils with ease. The program should be able to check available pencils, catalog new pencils, check which pencils need to be sharpened, and delete broken pencils. I will be using Python programming languange because of its many benefits which include Presence of Third Party Modules, Extensive Support Libraries, Open Source and Community Development, Learning Ease and Support Available, and User-friendly Data Structures which help to make this programming language have increased productivity and speed. As well as the fact that we are currently learning this in class.
 
 **Criteria for Success**
