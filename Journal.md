@@ -24,3 +24,14 @@ reach the leaderboard but its fine. We talked to our clients about our success c
 
 19/2/20
   Today we fixed our graphs for python and learned how to make a circle graph. We did a kahoot about computer applications, and python codes. We did presentations about Different Softwares (inputs and output) a specific career / job is required to use. We made a python program for a bank account, We defined the function for Deposit and we have to find the functions for check balance and withdraw
+  
+24/2/20
+  We discussed that we often go through procedural programming, now we are discussing Object oriented Programming (OOP)
+  **Glossary:**
+  Data Structure:
+  Primitive DAta Structure:
+  Instance:
+  User defined data Structure:
+  WHAT TO DOO????
+    1 Practice OOD
+    2 Bring sketches of the app
