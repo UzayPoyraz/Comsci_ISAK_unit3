@@ -1,3 +1,9 @@
+| Task Number | Planned Action                                                         | Expected Outcome                                     | Time Estimated | Target Completion                                                                                                                             | Criteria |
+|-------------|------------------------------------------------------------------------|------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|      1      | Planning: Meet the client for the first time to understand his needs   | Gain the requirements of the client                  | 20 Minutes     | Clients needs were clear and understood, Will create a Success Criteria and proposed solution to discuss with client in next meeting.         |     A    |
+|      2      | Planning: Meet with the client to discuss the success criteria         | Gain feedback from client regarding success criteria | 20 Minutes     | Client was satisfied with the success criteria and nothing is needed to be added. Will create a sketch and design the Application interphase. |     A    |
+|      3      | Design: Meet with client to discuss the Application interphase created | Gain feedback from client regarding the interphase   | 30 Minutes     | Client was satisfied but needs more artistic design to the app and a registration window to allow him to add other administrators to his app  |     B     |
+
 Record of Tasks
 29/1/20
 ```.py
