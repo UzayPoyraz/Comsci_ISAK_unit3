@@ -35,3 +35,6 @@ reach the leaderboard but its fine. We talked to our clients about our success c
   WHAT TO DOO????
     1 Practice OOD
     2 Bring sketches of the app
+
+06/2/20
+  Today we are fixing our interphase for our application, Dr pinzon wasn't here the whole week until today so he left us some tasks. the Codin Games and the interphases. 
