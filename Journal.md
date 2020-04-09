@@ -38,3 +38,6 @@ reach the leaderboard but its fine. We talked to our clients about our success c
 
 06/2/20
   Today we are fixing our interphase for our application, Dr pinzon wasn't here the whole week until today so he left us some tasks. the Codin Games and the interphases. 
+  
+06/4/20
+  Wow it has been a while, I finished doing all the Homework assignments. I had to ask for help from my friends and had to research some new code i have not learned. I still need to catch up on that 1 video.
