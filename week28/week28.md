@@ -4,6 +4,8 @@ Q1. Outline one usability issue associated with the design of mobile devices.
   
 Q2. Construct a truth table for the following Boolean expression. 
 
+![truthtable](truthtable28.png)
+
 Q3. Define the term protocol.
   
   A set of rules / standards to coordinate data transmission (between a sender and a receiver)
