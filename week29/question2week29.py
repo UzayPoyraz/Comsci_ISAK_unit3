@@ -6,7 +6,7 @@ num = int(input("Enter the number of passwords"))
 
 for i in range(num):
     passwordstring = string.ascii_letters + string.digits + string.punctuation
-    passwordLength = 20
-    password = "".join([random.choice(passwordstring) for i in range(passwordLength)])
+    passwordlength = 20
+    password = "".join([random.choice(passwordstring) for i in range(passwordlength)])
     print(password)
 
