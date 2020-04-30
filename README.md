@@ -4,3 +4,13 @@
 
 
 [Record of tasks](RecordofTasks.md)
+
+
+[CriteriaB](CriteriaB.md)
+
+
+[CriteriaC](CriteriaC.md)
+
+
+[CriteriaD](CriteriaD.md)
+
