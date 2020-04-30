@@ -17,3 +17,5 @@
 
 [CriteriaD](CriteriaD.md)
 
+
+[Journal](Journal.md)
