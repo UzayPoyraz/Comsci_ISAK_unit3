@@ -11,6 +11,11 @@ In regards to the issue above, I proposed to make an inventory system to help my
 1. Pencil informations is able to be changed whenever, when user starts program it asks if the information is correct, if not then user will be able to input new information and it will be saved in the database
 2. Show pencils available for use, will give option saying pencils available.
 3. Show pencils needed to be sharpened, when user inputs a pencil name, The program is able to print whether it needs sharpening or not.
-4. Application is able to register a user and allow it to login as needed
+4. Application is able to register a user
+5. Application is able to reject user to register if input is not properly filled in
+6. Application is able to keep user information to log in
+7. Table can be edited and saved.
+8. Application allows user to log out and exit program.
 
 This has been discussed and agreed to with the client as shown in the [appendix](Appendix.md) [2]
+There have been modifications to the Success Criteria due to current situations and to show my current abilities in computer science
