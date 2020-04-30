@@ -123,6 +123,19 @@ def try_register(self):
 ```
 Try register is defined above, it runs validate_registration which checks if each individual boxes of input match the requirements and once it does it runs the operation of store. The store program takes the username and password inputted, combines it and hashes it to make it more secure. 
 
+
+![Validate passoword](passwordflowdiagram.png)
+
+
+**Fig 1 Flow diagram for validating password**
+
+
+![Validate username](usernameflowdiagram.png)
+
+
+**Fig 2 Flow diagram for validating username**
+
+
 ```. py
 def hash_password(password):
     salt = hashlib.sha256(os.urandom(60)).hexdigest().encode('ascii')
