@@ -11,4 +11,11 @@
 | Application allows user to log out and exit program.                                                                                                                                                            | (✓) |
 
 
-The code is too incredibly simple with too little functionalities
+The code is too incredibly simple with too little functionalities that it would be sort of pointless to have this app, the client could just view a csv file under their private email. It is sort of inconvenient to log in all the time. There will be an issue if the client forgets his username or password as the stored information is hashed.
+
+** Improvements ** 
+1. There could be a remember me option so the client could just log in straight without having to type.
+2. There could be a forgot password option to somehow allow user to set a new password.
+3. More functions could to the actual application as planned could be carried out, such as pencil's available, broken pencils, search for a specific pencil, which pencils needed to be sharpened
+4. A better way to add/ edit information on the table, once the assigned amount of tables are filled, there isn't a way to add rows or columns
+
