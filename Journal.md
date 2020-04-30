@@ -38,6 +38,22 @@ reach the leaderboard but its fine. We talked to our clients about our success c
 
 06/2/20
   Today we are fixing our interphase for our application, Dr pinzon wasn't here the whole week until today so he left us some tasks. the Codin Games and the interphases. 
+
   
 06/4/20
   Wow it has been a while, I finished doing all the Homework assignments. I had to ask for help from my friends and had to research some new code i have not learned. I still need to catch up on that 1 video.
+
+12/4/20
+  Today we were assigned to create a code to secure the login method for our program, I finished it and the homework, I still need to work on my repository. I will set up a meeting with Dr Pinzon Soon.
+  
+16/4/20
+  Today I had my meeting with Dr Pinzon, We discussed issues with my application as to why it wasn't running properly. Also helped me figure out how to put the login window ahead of the main window. I still have to delete my converted UI python files and reconvert them to have the changes that I made. Still need to update repo.
+  
+26/4/20
+  Today I worked on fixing the edit/delete information on the table. I was confused on how to save information into the database csv file so I called Chinomnso and he helped me.
+
+29/4/20
+  Today I met with Dr Pinzon and again he helped me fix my issues with running the program, I had to include Qmainwindow when defining the class for the login window. Afterwards helped me fix my enter button on my login page. I need to fix my repository and film the video for my submission.
+  
+30/4/20
+  Today I have finally finished my repository and all I have to do left is film the video. I should do it tonight.
