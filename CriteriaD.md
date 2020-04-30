@@ -19,3 +19,5 @@ The code is too incredibly simple with too little functionalities that it would 
 3. More functions could to the actual application as planned could be carried out, such as pencil's available, broken pencils, search for a specific pencil, which pencils needed to be sharpened
 4. A better way to add/ edit information on the table, once the assigned amount of tables are filled, there isn't a way to add rows or columns
 
+Finally: this is my video for Criteria D
+https://drive.google.com/open?id=1ir_XYLorPAxsW3HCouMjEpUBvemOsCLl
